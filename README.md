@@ -13,7 +13,7 @@ I've contributed to diverse projects including logistics platforms, healthcare a
 
 📱 Mobile App Development
 -   Native iOS & Android (Swift, Kotlin, Java)
--   Cross-platform with Flutter
+-   Cross-platform with Flutter/React Native
 -   Scalable architecture, clean UX
 -   App Store / Play Store deployment
 -   Performance optimization & bug fixing
